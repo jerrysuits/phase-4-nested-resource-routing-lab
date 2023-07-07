@@ -113,5 +113,5 @@ Response Body:
 ```
 
 ## Resources
-
+ 
 - [Routing: Nested Resources](https://guides.rubyonrails.org/routing.html#nested-resources)
